@@ -1,2 +1,2 @@
-# vladvdovin27.github.io
-My first site
+# Vlad Vdovin
+My first public site
