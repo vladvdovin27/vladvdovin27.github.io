@@ -1,0 +1,93 @@
+@keyframes main_header {
+  0% {
+    padding-left: 0px;
+    opacity: 0;
+  }
+  100% {
+    padding-left: 20%;
+    opacity: 1;
+  }
+}
+.main_header {
+  font-size: 30pt;
+  margin-top: 100px;
+  padding-left: 20%;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  line-height: 1.55;
+  animation-name: main_header;
+  animation-duration: 2s;
+}
+.what {
+  color: #e6179a;
+  text-align: center;
+  font-size: 38px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  letter-spacing: 1.65;
+  margin-top: 70px;
+}
+.money {
+  font-size: 31px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.55;
+  font-weight: 400;
+  text-align: center;
+}
+.money span {
+  text-decoration: line-through;
+}
+.what_1 {
+  color: #e6179a;
+  text-align: center;
+  font-size: 38px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  letter-spacing: 1.65;
+  margin-top: 70px;
+  margin-top: 0px;
+}
+.why {
+  font-weight: 600;
+  font-size: 28pt;
+  text-align: center;
+  margin-top: 50px;
+}
+.for_who {
+  margin-top: 50px;
+}
+.shema {
+  padding-top: 30px;
+}
+.why_we {
+  font-size: 35px;
+  text-align: center;
+  font-weight: 400;
+  line-height: 1.55;
+  font-family: "Arial", Arial, sans-serif;
+  margin-top: 150px;
+}
+.last_header {
+  color: #e6179a;
+  font-size: 35px;
+  font-family: 'Roboto', Arial, sans-serif;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+.write_to_me {
+  text-align: center;
+  font-size: 33px;
+  font-family: 'Arial', Arial, sans-serif;
+  font-weight: 700;
+  line-height: 1.55;
+}
+.click {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.55;
+  font-family: 'Arial', Arial, sans-serif;
+  text-align: center;
+  margin-top: 30px;
+}
